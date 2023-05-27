@@ -1,1 +1,1 @@
-alert("si funca")
+return alert("si funca")
